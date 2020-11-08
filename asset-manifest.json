@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/basketball-team-manager/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/basketball-team-manager/static/js/main.66b41bb4.chunk.js",
+    "main.js.map": "/basketball-team-manager/static/js/main.66b41bb4.chunk.js.map",
+    "runtime-main.js": "/basketball-team-manager/static/js/runtime-main.3560cecd.js",
+    "runtime-main.js.map": "/basketball-team-manager/static/js/runtime-main.3560cecd.js.map",
+    "static/js/2.8b4000df.chunk.js": "/basketball-team-manager/static/js/2.8b4000df.chunk.js",
+    "static/js/2.8b4000df.chunk.js.map": "/basketball-team-manager/static/js/2.8b4000df.chunk.js.map",
+    "static/js/3.ecfbb2dd.chunk.js": "/basketball-team-manager/static/js/3.ecfbb2dd.chunk.js",
+    "static/js/3.ecfbb2dd.chunk.js.map": "/basketball-team-manager/static/js/3.ecfbb2dd.chunk.js.map",
+    "index.html": "/basketball-team-manager/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/basketball-team-manager/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8b4000df.chunk.js.LICENSE.txt": "/basketball-team-manager/static/js/2.8b4000df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3560cecd.js",
+    "static/js/2.8b4000df.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66b41bb4.chunk.js"
+  ]
+}
