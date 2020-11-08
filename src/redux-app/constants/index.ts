@@ -1,0 +1,1 @@
+export const ADD_PLAYER: string = 'ADD_PLAYER';

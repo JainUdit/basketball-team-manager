@@ -1,26 +1,12 @@
-import React from 'react';
-import logo from './logo.svg';
+import { Grid } from '@material-ui/core';
+import * as React from 'react';
 import './App.css';
+import { TeamManager } from './redux-app/components/TeamManager';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = (): React.ReactElement => (
+  <Grid container>
+    <TeamManager />
+  </Grid>
+);
 
 export default App;
