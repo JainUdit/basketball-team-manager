@@ -4,7 +4,7 @@ import { IPlayerDetails } from "../interfaces/IPlayerDetails";
 import { IPlayerDetailsIdentifier } from "../interfaces/IPlayerDetailsIdentifier";
 
 /**
- * These interfaces defines type for actions.
+ * The interface here defines type for actions.
  */
 export interface IAddPlayer extends BaseAction<IPlayerDetailsIdentifier> { }
 
